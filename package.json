@@ -1,0 +1,16 @@
+{
+    "name": "io.github.nop.readonlyinspector",
+    "version": "0.1.0",
+    "displayName": "[ReadOnlyInspector]",
+    "description": "Use the [ReadOnlyInspector] attribute to display your property in the inspector without allowing for modification via the inspector.",
+    "keywords": [
+        "readonly",
+        "inspector",
+        "attribute"
+    ],
+    "author": {
+        "name": "James Box",
+        "email": "jamesboxdev@gmail.com",
+        "url": "https://github.com/nop"
+    }
+}
