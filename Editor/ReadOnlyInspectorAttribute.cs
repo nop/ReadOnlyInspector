@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Nop
+namespace Nop.ReadOnlyInspector
 {
 	/// <summary>
 	/// Specify that a field should be read-only in the inspector.

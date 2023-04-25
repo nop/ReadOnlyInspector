@@ -1,6 +1,6 @@
 {
-    "name": "com.github.nop.ReadOnlyInspector.Editor",
-    "rootNamespace": "Nop",
+    "name": "com.github.nop.readonlyinspector.Editor",
+    "rootNamespace": "Nop.ReadOnlyInspector",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace Nop
+namespace Nop.ReadOnlyInspector
 {
 	[CustomPropertyDrawer(typeof(ReadOnlyInspectorAttribute))]
 	public class ReadOnlyInspectorPropertyDrawer : PropertyDrawer
